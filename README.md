@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="IMG_2745.jpg" width="100%" alt="Banner">
+</div>
+<br>
+
+###
+
 <h1 data-importer="text" align="left"></h1>
 
 ###
@@ -13,6 +20,8 @@
 ###
 
 <p data-importer="text" align="left">18 yo Computer Science student exploring the space where artificial intelligence meets physical engineering. I build systems that bring algorithms off the screen and into the real world using applied math and physics.<br><br>Currently combining C++ and Python with hardware design to build a custom robotic arm. My next major milestone: training LLMs from the ground up to embed advanced AI directly into these machines.</p>
+
+> *"Somewhere, something incredible is waiting to be known."* — Carl Sagan
 
 ###
 
