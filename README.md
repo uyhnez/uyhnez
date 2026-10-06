@@ -50,6 +50,10 @@
 
 <h2 data-importer="text" align="left">Stats</h2>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/stats-output/stats.svg" alt="GitHub Stats" />
+</div>
+
 ###
 
 <div data-importer="stats" align="center">
