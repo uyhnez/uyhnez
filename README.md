@@ -27,20 +27,20 @@ Currently combining C++, Python, and hardware design to build a custom robotic a
 
 ###
 
-#### Languages & Data
+#### Languages & Data <br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-#### Hardware & Engineering
+#### Hardware & Engineering <br>
 <p>
   <img src="https://img.shields.io/badge/Fusion%20360-E66C00?style=flat&logo=autodesk&logoColor=white" alt="Fusion 360" />
   <img src="https://img.shields.io/badge/KiCad-2C3E50?style=flat&logo=kicad&logoColor=white" alt="KiCad" />
 </p>
 
-#### Tools & Environment
+#### Tools & Environment <br>
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/CLion-1A1A1A?style=flat&logo=clion&logoColor=white" alt="CLion" />
