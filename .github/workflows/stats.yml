@@ -1,28 +1,30 @@
-name: Generate Metrics
+name: Generate Stats
 
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate-metrics:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Generate classic metrics
-        uses: lowlighter/metrics@latest
+      - name: Create download folder
+        run: mkdir -p dist
+
+      - name: Download Stats Image
+        # Le "-f" empêche la sauvegarde si le serveur public plante
+        run: curl -f -s "https://github-readme-stats.vercel.app/api?username=uyhnez&show_icons=true&hide_border=true&hide_rank=true&custom_title=Pierre&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" -o dist/stats.svg
+
+      - name: Download Languages Image
+        run: curl -f -s "https://github-readme-stats.vercel.app/api/top-langs/?username=uyhnez&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" -o dist/langs.svg
+
+      - name: Push to stats-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          template: classic
-          base: header, activity, repositories
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          config_timezone: Europe/Paris
-          committer_branch: stats-output
-          filename: metrics.svg
+          target_branch: stats-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
