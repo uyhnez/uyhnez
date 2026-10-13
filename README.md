@@ -61,7 +61,9 @@ Currently combining C++, Python, and hardware design to build a custom robotic a
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uyhnez&show_icons=true&hide_border=true&hide_rank=true&custom_title=Pierre&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=21600" alt="Pierre's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/uyhnez/uyhnez/stats-output/stats.svg" alt="Pierre's GitHub Stats" />
+  
+  <img src="https://raw.githubusercontent.com/uyhnez/uyhnez/stats-output/langs.svg" alt="Top Languages" />
 </div>
 
 ###
