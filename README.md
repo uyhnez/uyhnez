@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="da8d287d2cf4941ed9f77b4c9e60225f.jpg" width="100%" alt="Banner">
-</div>
-<br>
-
 ###
 
 <h1 data-importer="text" align="left"></h1>
@@ -65,8 +60,8 @@ Currently combining C++, Python, and hardware design to build a custom robotic a
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/uyhnez/uyhnez/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Pierre" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://metrics.lecoq.io/uyhnez" alt="Pierre's GitHub Metrics" />
 </div>
 
 ###
