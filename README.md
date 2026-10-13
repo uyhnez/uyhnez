@@ -61,7 +61,7 @@ Currently combining C++, Python, and hardware design to build a custom robotic a
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/uyhnez/uyhnez/stats-output/metrics.svg" alt="Pierre's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/uyhnez/uyhnez/stats-output/metrics.svg?v=1" alt="Pierre's GitHub Stats"/>
 </div>
 
 ###
