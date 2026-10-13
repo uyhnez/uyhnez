@@ -52,7 +52,7 @@ Currently combining C++, Python, and hardware design to build a custom robotic a
   
 ###
 
-<h2 data-importer="text" align="left">Currently learning :</h2>
+<h2 data-importer="text" align="left">Currently learning</h2>
 
 ###
 
