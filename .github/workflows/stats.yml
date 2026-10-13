@@ -15,11 +15,7 @@ jobs:
         run: mkdir -p dist
 
       - name: Download Stats Image
-        # Le "-f" empêche la sauvegarde si le serveur public plante
-        run: curl -f -s "https://github-readme-stats.vercel.app/api?username=uyhnez&show_icons=true&hide_border=true&hide_rank=true&custom_title=Pierre&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" -o dist/stats.svg
-
-      - name: Download Languages Image
-        run: curl -f -s "https://github-readme-stats.vercel.app/api/top-langs/?username=uyhnez&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" -o dist/langs.svg
+        run: curl -s 'https://github-readme-stats.vercel.app/api?username=uyhnez&show_icons=true&hide_border=true&hide_rank=true&custom_title=Pierre&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&v=1' -o dist/stats.svg
 
       - name: Push to stats-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
