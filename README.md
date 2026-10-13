@@ -28,21 +28,21 @@ Currently combining C++, Python, and hardware design to build a custom robotic a
 ###
 
 **Languages & Data** <br>
-<img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-<img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 **Hardware & Engineering** <br>
-<img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-161b22?style=for-the-badge&logo=autodesk&logoColor=0696D7" alt="Fusion 360" />
-<img src="https://img.shields.io/badge/KiCad-161b22?style=for-the-badge&logo=kicad&logoColor=314159" alt="KiCad" />
+<img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
+<img src="https://img.shields.io/badge/KiCad-314159?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
 
 **Tools & Environment** <br>
-<img src="https://img.shields.io/badge/VS%20Code-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
-<img src="https://img.shields.io/badge/CLion-161b22?style=for-the-badge&logo=clion&logoColor=ffffff" alt="CLion" />
-<img src="https://img.shields.io/badge/Anaconda-161b22?style=for-the-badge&logo=anaconda&logoColor=44A833" alt="Anaconda" />
-<img src="https://img.shields.io/badge/Jupyter-161b22?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   
 ###
 
