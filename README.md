@@ -19,7 +19,8 @@
 
 ###
 
-<p data-importer="text" align="left">18 yo Computer Science student exploring the space where artificial intelligence meets physical engineering. I build systems that bring algorithms off the screen and into the real world using applied math and physics.<br><br>Currently combining C++ and Python with hardware design to build a custom robotic arm. My next major milestone: training LLMs from the ground up to embed advanced AI directly into these machines.</p>
+<p data-importer="text" align="left">18 yo Computer Science student focused on building tangible hardware and software systems. My philosophy is simple: build fast, break things, and iterate quickly.<br><br>
+Currently combining C++, Python, and hardware design to build a custom robotic arm from scratch. My next major milestone: mastering the complete R&D pipeline to launch my own tech startup.</p>
 
 > *"Beat the odds."*
 
@@ -31,23 +32,21 @@
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+**Languages & Data** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+**Hardware & Engineering** <br>
+<img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+
+**Tools & Environment** <br>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 ###
 
@@ -55,7 +54,9 @@
 
 ###
 
-<p data-importer="text" align="left">- C++ more deeply<br>- Fusion 360<br>- Kicad</p>
+- **C++ (Advanced):** Pushing beyond the basics for better hardware integration and performance.
+- **Autodesk Fusion 360:** Translating ideas into structural models to build reliable mechanical assemblies.
+- **KiCad:** Moving from basic wiring to custom PCB design.
 
 ###
 
