@@ -33,11 +33,11 @@ Currently combining C++, Python, and hardware design to build a custom robotic a
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 **Hardware & Engineering** <br>
-<img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
+<img src="https://img.shields.io/badge/Fusion%20360-E66C00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" />
 <img src="https://img.shields.io/badge/KiCad-314159?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
 
 **Tools & Environment** <br>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
