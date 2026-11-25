@@ -61,7 +61,4 @@ Currently combining C++, Python, and hardware design to build a custom robotic a
   <a href="https://x.com/uyhnez" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://www.twitch.tv/zenhyu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
-  </a>
 </div>
