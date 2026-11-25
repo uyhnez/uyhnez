@@ -7,7 +7,7 @@
 <p align="left">18 yo Data Science student focused on building tangible hardware and software systems. My philosophy is simple: build fast, break things, and iterate quickly.<br><br>
 Currently combining C++, Python, and hardware design to build a custom robotic arm from scratch. My next major milestone: mastering the complete R&D pipeline.</p>
 
-> *"Beat the odds."*
+> *"Invention is the most important product of man's creative brain."*
 
 ---
 
